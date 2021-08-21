@@ -1,4 +1,4 @@
-module pin
+module github.com/abdulpapalek/pin
 
 go 1.13
 
